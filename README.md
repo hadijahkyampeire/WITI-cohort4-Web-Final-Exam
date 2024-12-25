@@ -2,7 +2,14 @@
 Marking guide for WITI cohort 4 End of Sem Web exam.
 
 ## Section B and C Recording
-- [!Video Demo](/witi-final-exam.mov)
+
+<video controls width="600">
+  <source src="./witi-final-exam.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[![Video Demo](https://img.youtube.com/vi/rvKlI33VlJc/0.jpg)](https://www.youtube.com/watch?v=rvKlI33VlJc)
+
 
 Section A: Multiple Choice Questions (20 Marks)
 
