@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f4f4f485;
+    }
+    .login-form {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+      width: 40%;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: rgb(32, 231, 231);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .login-form .text-inputs, .login-form button {
+      width: 90%;
+      margin: 10px 0;
+      padding: 10px;
+    }
+    .rememberInput {
+      display: flex;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-form">
+    <h1>LOGIN FORM</h1>
+    <input type="text" placeholder="Username" class="text-inputs">
+    <input type="password" placeholder="Password" class="text-inputs">
+    <div class="rememberInput"><input type="checkbox"> <span>Remember Me</span></div>
+    <button>Login</button>
+  </div>
+</body>
+</html>

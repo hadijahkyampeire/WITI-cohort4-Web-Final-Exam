@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .grid-layout {
+      display: grid;
+      grid-template-columns: 25% 75%;
+      gap: 20px;
+    }
+    .sidebar {
+      background-color: #480348a9;
+      color: #fff;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    .sidebar .menus {
+      display: flex;
+      flex-direction: column;
+    }
+    .main-content {
+      background-color: #ddd;
+      padding: 10px;
+      height: 100vh;
+    }
+    @media (max-width: 600px) {
+      .grid-layout {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        height: 25vh;
+      }
+      .main-content {
+        height: 75vh;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-layout">
+    <div class="sidebar">
+      <h2>Sidebar</h2>
+      <div class="menus">
+        <div>Menu</div>
+        <a href="http://">Dashboard</a>
+        <a href="http://">Users</a>
+        <a href="http://">Settings</a>
+      </div>
+    </div>
+    <div class="main-content">Main Content</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #083168;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #444;
+}
+nav a {
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #4a6c95;
+}
+section {
+  padding: 20px;
+}
+footer {
+  background-color: #083168;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 1px;
+  width: 100%;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
