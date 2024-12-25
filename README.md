@@ -8,108 +8,108 @@ Marking guide for WITI cohort 4 End of Sem Web exam.
 
 Section A: Multiple Choice Questions (20 Marks)
 
-#### Which tag is used to create a hyperlink in HTML? 
+#### 1. Which tag is used to create a hyperlink in HTML? 
 ```html
   a) <a> ☑️              b) <link>                   c) <href>                   d) <anchor>
 ```
 
-#### What is the correct syntax for adding a background color in CSS? 
+#### 2. What is the correct syntax for adding a background color in CSS? 
 ```html
-a) background: red;       b) bg-color: red;    c) color: background;     d) background-color: red; ☑️
+a) background: red;   b) bg-color: red;   c) color: background;   d) background-color: red; ☑️
 ```
 
-#### What does the <img> tag in HTML require to function? 
+#### 3. What does the <img> tag in HTML require to function? 
 ```html
-a) href                   b) src ☑️                 c) alt                             d) path
+a) href               b) src ☑️                 c) alt                      d) path
 ```
 
-#### Which property is used in CSS to change the text color of an element? 
+#### 4. Which property is used in CSS to change the text color of an element? 
 ```html
-a) font-color               b) text-color                 c) color ☑️                   d) foreground-color
+a) font-color         b) text-color            c) color ☑️                d) foreground-color
 ```
 
-#### What does the DOCTYPE declaration in HTML define? 
+#### 5. What does the DOCTYPE declaration in HTML define? 
 ```html
-a) The HTML version and type ☑️                            b) The language of the document 
-c) The URL of the document                                      d) The CSS styling rules
+a) The HTML version and type ☑️                         b) The language of the document 
+c) The URL of the document                             d) The CSS styling rules
 ```
 
-#### How do you create an ordered list in HTML? 
+#### 6. How do you create an ordered list in HTML? 
 ```html
-a) <ul>                     b) <ol>  ☑️                             c) <li>                       d) <order>
+a) <ul>            b) <ol>  ☑️                  c) <li>                    d) <order>
 ```
 
-#### Which HTML attribute is used to define inline styles? 
+#### 7. Which HTML attribute is used to define inline styles? 
 ```html
-a) font                     b) class                              c) style ☑️                       d) styles
+a) font              b) class                     c) style ☑️                d) styles
 ```
 
-#### What is the default positioning in CSS? 
+#### 8. What is the default positioning in CSS? 
 ```html
-a) relative                        b) absolute              c) static ☑️                       d) fixed
+a) relative          b) absolute                  c) static ☑️               d) fixed
 ```
 
-#### Which CSS property controls the font size? 
+#### 9. Which CSS property controls the font size? 
 ```html
-a) text-size                  b) font-style               c) font-size  ☑️                   d) text-style
+a) text-size      b) font-style               c) font-size  ☑️              d) text-style
 ```
 
-#### How do you comment in HTML?
+#### 10. How do you comment in HTML?
 ```html
- a) // Comment     b) <!-- Comment --> ☑️     c) /* Comment */         d) # Comment
+ a) // Comment       b) <!-- Comment --> ☑️     c) /* Comment */         d) # Comment
  ```
 
-#### Which tag is used to define a table header in HTML?
+#### 11. Which tag is used to define a table header in HTML?
 ```html
- a) <head>                      b) <th> ☑️                            c) <header>                     d) <tr>
+ a) <head>             b) <th> ☑️               c) <header>                d) <tr>
 ```
 
-#### What is the correct CSS syntax to make all paragraphs bold?
+#### 12. What is the correct CSS syntax to make all paragraphs bold?
 ```html
-a) p {font-weight: bold;}   ☑️   b) all-p {bold;}     c) paragraph{text:bold;}               d) p {weight:bold;}
+a) p {font-weight: bold;} ☑️   b) all-p {bold;}  c) paragraph{text:bold;}  d) p {weight:bold;}
 ```
 
-#### Which property is used to specify the spacing between lines of text? 
+#### 13. Which property is used to specify the spacing between lines of text? 
 ```html
-a) letter-spacing           b) line-height ☑️                 c) spacing                d) text-indent
+a) letter-spacing     b) line-height ☑️         c) spacing            d) text-indent
 ```
 
-#### What does the <div> tag in HTML represent? 
+#### 14. What does the <div> tag in HTML represent? 
 ```html
-a) An inline element      b) A block-level container ☑️     c) A hyperlink           d) A styling tag
+a) An inline element  b) A block-level container ☑️    c) A hyperlink     d) A styling tag
 ```
 
-#### What is the purpose of the <meta> tag? 
+#### 15. What is the purpose of the <meta> tag? 
 ```html
-a) To define the title of the document           b) To add metadata about the HTML document ☑️
-c) To style the page                                           d) To create links to other pages
+a) To define the title of the document        b) To add metadata about the HTML document ☑️
+c) To style the page                          d) To create links to other pages
 ```
 
-#### Which CSS property is used to create space between an element's border and its content? 
+#### 16. Which CSS property is used to create space between an element's border and its content? 
 ```html
-a) padding ☑️           b) margin           c) border-spacing              d) content-spacing
+a) padding ☑️      b) margin        c) border-spacing          d) content-spacing
 ```
 
-#### What does the z-index property in CSS do? 
+#### 17. What does the z-index property in CSS do? 
 ```html
 a) Sets the transparency of an element    b) Defines the stacking order of elements ☑️   
 c) Specifies the zoom level of an element   d) Sets the depth of a 3D element
 ```
 
-#### How do you set a CSS class for an HTML element? 
+#### 18. How do you set a CSS class for an HTML element? 
 ```html
-a) <div style="class: example">                               b) <div class="example"> ☑️
-c) <div css="example">                                        d) <div example="class">
+a) <div style="class: example">                      b) <div class="example"> ☑️
+c) <div css="example">                               d) <div example="class">
 ```
 
-#### Which CSS property is used to make the text italic? 
+#### 19. Which CSS property is used to make the text italic? 
 ```html
-a) font-weight            b) font-style ☑️            c) text-decoration            d) text-style
+a) font-weight      b) font-style ☑️       c) text-decoration        d) text-style
 ```
 
-#### Which CSS property is used to hide elements? 
+#### 20. Which CSS property is used to hide elements? 
 ```html
-a) display: hidden;    b) visibility: none;       c) display: none; ☑️   d) visibility: hidden;
+a) display: hidden;  b) visibility: none;   c) display: none; ☑️   d) visibility: hidden;
 ```
 
 ### Section B: Coding Questions (25 Marks)
